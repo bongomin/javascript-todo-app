@@ -6,7 +6,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	margin: 0;
 	padding: 0;
-	background: rgb(52, 5, 139);
+	background: gray;
 }
 .app{
 width: 85%;
@@ -29,6 +29,10 @@ h3 {
 .wrapper {
 	width: 90%;
 	margin: 0 auto;
+}
+p{
+color: white;
+
 }
 
 .app {
